@@ -8,13 +8,13 @@ All teams: [📝 google sheet](https://docs.google.com/spreadsheets/d/1-o4YxKb9U
 
 Your team: group number ❔
 
-  - Student 1: ❔ (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
+  - El Hassan AZAKAF: ❔ (AZAKAF + EL HASSAN + `hassanAZAKAF`, for example Sébastien Boisgérault `boisgera`)
 
-  - Student 2: ❔ (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
+  - Yahya OUSSOULOUS: ❔ (OUSSOULOUS + Yahya + `YahyaOSL`, for example Sébastien Boisgérault `boisgera`)
   
-  - Student 3: ❔ (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
+  - Soufiane BOUTASKNITE: ❔ (BOUTASKNITE + Soufiane + `boutasknite`, for example Sébastien Boisgérault `boisgera`)
 
-  - Student 4: ❔ (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
+  - Elmehdi ALAALAOUI: ❔ (ALAALAOUI + Elmehdi + `ElMehdiALAALAOUI`, for example Sébastien Boisgérault `boisgera`)
 
 ## Getting Started
 
